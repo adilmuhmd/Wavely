@@ -22,7 +22,7 @@ A beautiful, local music player built with Flutter. Wavely focuses on smooth ani
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/wavely.git](https://github.com/yourusername/wavely.git)
+    git clone [https://github.com/adilmuhmd/wavely.git](https://github.com/adilmuhmd/wavely.git)
     ```
 
 2.  **Install dependencies:**
