@@ -17,6 +17,7 @@ A beautiful, local music player built with Flutter. Wavely focuses on smooth ani
 * **Audio:** Just Audio
 * **Storage:** Shared Preferences & Hive (if applicable)
 
+
 ## Getting Started
 
 1.  **Clone the repository:**
