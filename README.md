@@ -1,16 +1,39 @@
-# wavely
+# Wavely 🌊
 
-A new Flutter project.
+A beautiful, local music player built with Flutter. Wavely focuses on smooth animations, liquid glass aesthetics, and a premium user experience.
+
+## Features
+
+* **Liquid Navigation:** Unique glassmorphism bottom bar.
+* **Immersive Player:** Backgrounds adapt to album art colors.
+* **Hi-Res Support:** Automatically tags FLAC and WAV files.
+* **Lyrics:** Fetches lyrics automatically via API.
+* **Mini Player:** Expandable floating player with seamless transitions.
+
+## Tech Stack
+
+* **Framework:** Flutter & Dart
+* **State:** Riverpod
+* **Audio:** Just Audio
+* **Storage:** Shared Preferences & Hive (if applicable)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/yourusername/wavely.git](https://github.com/yourusername/wavely.git)
+    ```
 
-A few resources to get you started if this is your first Flutter project:
+2.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3.  **Run the app:**
+    ```bash
+    flutter run
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+MIT
